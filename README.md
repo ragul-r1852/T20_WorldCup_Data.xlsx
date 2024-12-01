@@ -48,7 +48,7 @@ The dataset includes:
 - Performance metrics: Runs, Extras, Wickets, Dismissal Types
 
 ### **Preview**
-![Dataset Preview](images/dataset_preview.png)
+![Dataset Preview](https://github.com/ragul-r1852/T20_WorldCup_Data.xlsx/blob/32dfac7f8404008111dd17a79b720ab5a1c787d9/Dashbord.png)
 
 ---
 
