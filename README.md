@@ -55,10 +55,10 @@ The dataset includes:
 ## **Dashboards**
 
 ### **Match-wise Analysis**
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](https://github.com/ragul-r1852/T20_WorldCup_Data.xlsx/blob/655b5cf4523bc20b4c9ad0d1103cc8154f41409f/Match.png)
 
 ### **Stadium Scores**
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](https://github.com/ragul-r1852/T20_WorldCup_Data.xlsx/blob/655b5cf4523bc20b4c9ad0d1103cc8154f41409f/Stadium.png)
 
 ---
 
